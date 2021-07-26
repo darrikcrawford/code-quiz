@@ -1,0 +1,26 @@
+:root{
+    --blue: #06519c;
+}
+
+.flex-row {
+    display: flex;
+}
+
+.quiz-instructions {
+    width: 50%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 30px auto 35px auto;
+
+}
+
+.quiz-instructions h2 {
+    font-size: 30px;
+    text-decoration: solid;
+}
+.quiz-instructions p {
+    font-size: 20px;
+
+}
